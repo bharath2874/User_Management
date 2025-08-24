@@ -1,0 +1,109 @@
+
+#head
+{
+  text-align:center;
+}
+.log
+{
+  width: 800px;
+  height: 400px;
+  justify-content: center;
+  border: 5px solid tomato;
+  background-color:tomato ;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  top:20%;
+  left:20%;
+}
+.log form
+{
+  position: absolute;
+  top: 10%;
+  align-items: center;
+  margin: 5%;
+}
+
+.log input
+{
+  width: 200px;
+  margin-bottom: 5px;
+  margin-left:0%; 
+  
+}
+img
+{
+  position: absolute;
+  top:20%;
+  left:65%;
+  width: 250px;
+  height:250px;
+}
+
+span
+{
+  color:rgb(13, 0, 128);
+}
+
+#sbtn,#lbtn,#rbtn
+{
+  color:white;
+  width: 200px;
+  height:40px;
+  border-radius: 5px;
+  margin-left:10px;
+  margin-top: 5%;
+  background-color: blue;
+}
+
+.forms
+{
+  margin-left:25%;
+  padding: 20px;
+}
+
+.forms h3{
+  margin:10px;
+  margin-left:20%;
+  color: white;
+  text-align: center;
+  width:200px;
+  border:5px solid magenta;
+  border-radius: 3px;
+  background-color: magenta;
+}
+
+
+.add
+{
+
+  width:700px;
+  border:3px solid black;
+  border-radius: 5px;
+  padding: 8%;
+}
+
+#eid,#name,#pwd,#role
+{
+  position: absolute;
+  left:45%;
+}
+
+#opt1
+{
+  margin-left: 70px;
+}
+.add * 
+{
+margin:10px;
+}
+
+label
+{
+font-size:x-large;
+color: blueviolet;
+}
+
+
+
+

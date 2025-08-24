@@ -1,0 +1,147 @@
+
+#logo
+{
+  margin: 3px;
+  position: absolute;
+  left:10%;
+  top:0%;
+  display: inline-block;
+  height: 80px;
+}
+#head
+{
+  margin-left:25%;
+text-align: center;
+display: inline-block;
+}
+
+
+#btn
+{
+  color:white;
+  font-size: x-large;
+  background-color: gray;
+  border-radius: 5px;
+  display: inline-block;
+  position: absolute;
+  right: 11%;
+  top: 25px;
+}
+#user
+{
+  position:absolute;
+  right: 14%;
+  top: 30px;
+}
+.profile
+{
+  text-align: center;
+  color:black;
+  background-color: aliceblue;
+  border:2px solid black;
+  border-radius: 5px;
+  position:absolute;
+  top:70px;
+  right:8%;
+  display: none;
+}
+.box
+{
+  position:absolute;
+  border:5px solid grey;
+  width:1295px;
+  height: 800px;
+  padding:3%;
+  margin-top: 0%;
+}
+
+.home
+{
+  text-align: center;
+}
+#welimg
+{
+  
+  left: 24%;
+  width:800px;
+  height:400px;
+}
+
+.forms
+{
+  margin-left:25%;
+  padding: 20px;
+}
+
+.forms h3{
+  margin:10px;
+  margin-left:20%;
+  color: white;
+  text-align: center;
+  width:200px;
+  border:5px solid magenta;
+  border-radius: 3px;
+  background-color: magenta;
+}
+.add
+{
+  
+  width:600px;
+  border:3px solid black;
+  border-radius: 5px;
+  padding: 8%;
+}
+
+#eid,#name,#pwd,#role
+{
+  position: absolute;
+  left:47%;
+}
+
+#opt1
+{
+  margin-left: 70px;
+}
+.add * 
+{
+margin:10px;
+}
+
+label
+{
+font-size:x-large;
+color: blueviolet;
+
+}
+
+
+.add button
+{
+  color:white;
+  width: 200px;
+  border-radius: 5px;
+  margin-left:20%;
+  margin-top: 5%;
+  background-color: blue;
+}
+
+table thead th
+{
+  text-align: center;
+  width:1000px;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: aqua;
+}
+table tbody td
+{
+  width:1000px;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: azure; 
+}
+
+table button
+{
+  margin: 5px;
+}
